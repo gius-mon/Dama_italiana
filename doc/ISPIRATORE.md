@@ -1,0 +1,6 @@
+<b>Robert L. Glass </b>
+
+Robert L. Glass, nato nel 1932, è un software engineer americano che ha lavorato nell’industria aerospaziale, in particolare per la società <em>Boeing </em>. Il suo ruolo era, in gran parte, quello di creare strumenti software utilizzati dagli specialisti, durante il periodo delle esplorazioni spaziali. Grazie a queste esperienze ha potuto osservare che era molto interessato alla tecnologia e sviluppo del software, ma odiava essere un manager. Infatti nel corso degli anni le sue conoscenze tecniche sono rimaste utili, ma la sua conoscenza della gestione e la capacità di guadagno sono diminuite in modo proporzionale.
+Successivamente ha insegnato al corso di laurea in Ingegneria del software presso la Seattle University (1982-1987) e ha trascorso un anno presso il Software Engineering Institute.
+A causa della transizione dal mondo dell’industria a quello accademico, iniziò a cercare modi per colmare quello che riteneva fosse il "divario comunicativo" tra l'informatica accademica e la sua pratica. Difatti, molti dei suoi libri e articoli professionali si concentrano sul valutare i risultati dell’informatica accademica e sul cambiamento di quelli utili per le aziende, per verificare tali discrepanze.
+Uno dei maggiori riconoscimenti è stato il premio, da parte della Linkoping University of Sweden, del suo dottorato onorario.
